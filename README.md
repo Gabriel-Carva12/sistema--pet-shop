@@ -20,4 +20,6 @@ Amantes dos animais de classes A,B e C, com renda que permita investir em alimen
 
 ![image](https://github.com/user-attachments/assets/2214519d-0ad1-4328-b28a-3c8428b6c0e9)
 
+![wireframe inicial](excalidraw.svg)
+
 
